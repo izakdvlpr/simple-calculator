@@ -1,3 +1,3 @@
 # kotlin-calculator-app
 
-🫖 A simple calculator.
+🤓 A simple calculator.
