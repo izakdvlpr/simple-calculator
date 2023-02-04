@@ -1,3 +1,3 @@
-# kotlin-calculator-app
+# simple-calculator
 
 A simple calculator.
